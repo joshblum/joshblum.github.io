@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/joshblum
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://joshblum.github.io
+  * I am joshblum (https://keybase.io/joshblum) on keybase.
+  * I have a public key ASDXU54n6DqcjK-HARmcaYXAqWgB_3y2lFbps6ioRGxmCAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010153bcb4567ce28ea5e605990e1a012e6e0cb9d29c25edd04cfcc9e47caa13b35b0a",
+      "host": "keybase.io",
+      "kid": "0120d7539e27e83a9c8caf8701199c6985c0a96801ff7cb69456e9b3a8a8446c66080a",
+      "uid": "d1b3a5fa977ce53da2c2142a4511bc00",
+      "username": "joshblum"
+    },
+    "merkle_root": {
+      "ctime": 1587770107,
+      "hash": "03ca54b8c1fd07c316a10870761400be016ebf035869ba73a6fe93d8ddff879acdc05c66fd33c77242311517ea784268c681fe90a1d9d19d8079ca65b9f88b2f",
+      "hash_meta": "c76c8d1332ff66f09be18c5027451e04286bbba5998082ea8d9c3e4879157e01",
+      "seqno": 16043694
+    },
+    "service": {
+      "entropy": "31Xv6jIKJvHAfVVprgrvgOPM",
+      "hostname": "joshblum.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1587770162,
+  "expire_in": 504576000,
+  "prev": "f554c4d5fbdca4d7dd2209e00958d09329d61c68627647b3dcf6a0fc505a9daf",
+  "seqno": 269,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg11OeJ+g6nIyvhwEZnGmFwKloAf98tpRW6bOoqERsZggKp3BheWxvYWTETJcCzQENxCD1VMTV+9yk190iCeAJWNCTKdYcaGJ2R7Pc9qD8UFqdr8QgH9I+w9EhT+XJacDn6g5K0NJQDGieXNn+jY7dGts+ERACAcKjc2lnxEBFfw9f/nkJWUvW0x3lGhT/VBcVUFclu5axiMx1Y5KKjQU+ycefo3Il5tQxBizbFQeUqcUNAasxeSGoS7UiX2oKqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgx/0W/gjIcuI4PROtqw122x6KnBAip8LbkITcRUe6O0GjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joshblum
+
+==================================================================

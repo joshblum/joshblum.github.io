@@ -1,0 +1,87 @@
+body {
+  margin: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  display: flex;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.links {
+  justify-content: center;
+  padding-bottom: 40px;
+  flex-wrap: wrap;
+}
+
+.header-link {
+  padding-left: 7px;
+  padding-right: 7px;
+}
+
+.headshot-container {
+  padding-right: 50px;
+}
+
+.headshot {
+  border-radius: 6px;
+  height: 350px;
+  width: 350px;
+}
+
+i {
+  padding-right: 3px;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: grey;
+}
+
+.about-me {
+  max-width: 50vw;
+}
+
+.publications {
+  padding-top: 10px;
+}
+
+
+.pub {
+  max-width: 80vw;
+}
+
+.pub-title {
+  padding-bottom: 3px;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 768px) {
+  body {
+    margin: 31px;
+  }
+  .links {
+    padding-bottom: 30px;
+  }
+  .content {
+    align-items: center;
+    flex-direction: column;
+  }
+  .headshot-container {
+    padding-right: 0px;
+  }
+  .about-me {
+    max-width: unset;
+  }
+  .headshot {
+    height: 200px;
+    width: 200px;
+    padding-right: 0px;
+  }
+}
